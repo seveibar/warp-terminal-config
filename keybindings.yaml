@@ -1,0 +1,11 @@
+---
+"workspace:close_active_tab": ctrl-w
+"terminal:warpify_subshell": ctrl-j
+"editor_view:cut_all_right": none
+"editor_view:insert_newline": none
+"editor_view:clear_and_copy_lines": none
+"workspace:activate_prev_tab": ctrl-i
+"workspace:new_tab": ctrl-t
+"editor_view:cmd_i": ctrl-j
+"workspace:activate_next_tab": ctrl-u
+"editor_view:cut_word_left": none
